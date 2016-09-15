@@ -1,4 +1,4 @@
-# Guide to developing using draw.io
+# Building draw.io
 
 draw.io consists of two parts, currently. The main part is the client-side JavaScript code. You can create the minified JavaScript using the default "all" task of the [Ant build.xml file](https://github.com/jgraph/draw.io/blob/master/etc/build/build.xml). After building the minified JavaScript, point a web server at the /war directory and you'll get the client functionality served at /index.html.
 
