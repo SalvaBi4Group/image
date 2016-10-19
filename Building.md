@@ -4,6 +4,6 @@ draw.io consists of two parts, currently. The main part is the client-side JavaS
 
 One easy way to deploy is to map the Github pages site to your master branch, [as we have done on the master project](https://jgraph.github.io/draw.io/war/index.html).
 
-To build the Java server-side code into a war invokes the "war" task in the [Ant build.xml file](https://github.com/jgraph/draw.io/blob/master/etc/build/build.xml). Deploy the resulting .war file to a servlet engine.
+Note, if you use just the client-side code, you'll be missing the Gliffy and .vsdx importers, the embed support ,icon search and publishing to Imgur.
 
-The server-side functionality currently consists of Gliffy import, .vsdx import, Iconfinder search and publish to Imgur.
+If you want to build the full war with the Java server-side code and the client-side JavaScript, invoke the "war" task in the [Ant build.xml file](https://github.com/jgraph/draw.io/blob/master/etc/build/build.xml). Deploy the resulting .war file to a servlet engine.
