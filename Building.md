@@ -17,4 +17,4 @@ If you want to run *draw.io* locally, e.g. for development, you can use a local 
 ### Running locally in electron
 You can also run draw.io in [electron](http://electron.atom.io/) for development purposes. Clone the [mxgraph repo](https://github.com/jgraph/mxgraph) into a folder called "mxgraph2". The *mxgraph2* folder needs to be a sibling folder of the draw.io repo. 
 folder.
-Go the the `war` folder of your chackout of *draw.io*’s repo. Run `npm install` (which will download electron) and `npm run`, which will start *draw.io* in electron. 
+Go the the `war` folder of your checkout of *draw.io*’s repo. Run `npm install` (which will download electron) and `npm run`, which will start *draw.io* in electron. 
