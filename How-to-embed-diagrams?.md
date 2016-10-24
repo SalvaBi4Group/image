@@ -2,6 +2,6 @@ To embed a diagram in this Wiki, clone the repository, store your diagram as a P
 
 ![Database Schema](images/schema.png)
 
-To edit this file in a browser or use it as a template, [click here](https://draw.io/?url=https://github.com/jgraph/draw.io/wiki/images/schema.png). Use the [Chrome App](https://chrome.google.com/webstore/detail/drawio-desktop/pebppomjfocnoigkeepgbmcifnnlndla) for "native" PNG+XML support.
+[Click here](https://draw.io/?url=https://github.com/jgraph/draw.io/wiki/images/schema.png) to edit this file in a browser. Use the [Chrome App](https://chrome.google.com/webstore/detail/drawio-desktop/pebppomjfocnoigkeepgbmcifnnlndla) for native PNG+XML support.
 
 
