@@ -1,4 +1,4 @@
-To embed a diagram in this Wiki, clone the repository, store your diagram as a PNG+XML file in the images folder, and reference it using `![Title](images/someimage.png)`. Here is an example:
+To embed a diagram in this Wiki, clone the repository, store your diagram as a PNG+XML file in the images folder, and reference it using `![Alt](images/someimage.png)`. Here is an example:
 
 ![Database Schema](images/schema.png)
 
