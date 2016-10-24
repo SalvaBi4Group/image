@@ -6,4 +6,4 @@ Developing with draw.io
 
 [[Translations|translations]]
 
-[[How to embed diagrams?]]
+[[Embed Diagrams]]
