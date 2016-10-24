@@ -5,3 +5,5 @@ Developing with draw.io
 [[Ideas for extension|extensions]]
 
 [[Translations|translations]]
+
+[[How to embed diagrams?]]
