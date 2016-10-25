@@ -4,7 +4,7 @@ Here is an example:
 
 ![Database Schema](images/schema.png)
 
-[Lightbox](https://www.draw.io/?chrome=0&lightbox=1&url=url=https%3A%2F%2Fraw.githubusercontent.com%2Fwiki%2Fjgraph%2Fdraw.io%2Fimages%2Fschema.png%3Ft%3D0)
+[Lightbox](https://www.draw.io/?chrome=0&lightbox=1&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwiki%2Fjgraph%2Fdraw.io%2Fimages%2Fschema.png%3Ft%3D0)
 
 The absolute URL of this image is https://raw.githubusercontent.com/wiki/jgraph/draw.io/images/schema.png.
 
