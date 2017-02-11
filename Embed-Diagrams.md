@@ -1,4 +1,4 @@
-To embed diagrams in this Wiki, clone the repository, store the diagram as a PNG+XML file in the images folder, and reference it using `![Alt](images/someimage.png)`.
+To embed diagrams in this Wiki, clone the wiki (https://github.com/jgraph/draw.io.wiki.git), store the diagram as a PNG+XML file in the images folder, and reference it using `![Alt](images/someimage.png)`.
 
 Here is an example:
 
