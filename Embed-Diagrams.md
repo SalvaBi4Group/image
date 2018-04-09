@@ -2,7 +2,7 @@ To embed diagrams in this Wiki, clone the wiki (https://github.com/jgraph/draw.i
 
 Here is an example:
 
-![Database Schema](images/schema.png)
+![Database Schema](https://trello-attachments.s3.amazonaws.com/59a529346cbad9eb364f1ef7/5a7c1ff6a3efbefe47fd749b/6877fff90f05bfbebc8551bb1e239122/Range.pdf)
 
 [Lightbox](https://www.draw.io/?chrome=0&lightbox=1&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwiki%2Fjgraph%2Fdraw.io%2Fimages%2Fschema.png%3Ft%3D0)
 
